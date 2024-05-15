@@ -28,3 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miadabdi&show_icons=true&locale=en" alt="miadabdi" /></p>
 
+[![Miad Abdi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11672221)](https://stackoverflow.com/users/11672221/miad-abdi)
