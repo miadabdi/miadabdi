@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **miadabdi80@gmail.com**
 
-- 📄 Know about my experiences [https://google.com](https://google.com)
+- 📄 Know about my experiences in my [https://miadabdi.github.io/resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
